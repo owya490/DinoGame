@@ -1,5 +1,5 @@
 # DinoGame
-The Google Chrome Offline Dino Game!
+The Google Chrome Offline Dino Game created using Pygame!
 
 Dodge the Cactus to Stay Alive!
 
